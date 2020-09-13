@@ -124,12 +124,12 @@ ul li:hover a {
 }
 .food {
 	padding-left: 25px;
-	padding-right: 800px;
+	padding-right: 25px;
 	padding-top: 35px;
 	display: inline-block;
 	background-color: #FFFFFF;
 	margin-top: 0px;
-	padding-bottom: 15px;
+	
 }
 
 /* Stats Gallery */
